@@ -19,7 +19,7 @@
 
 .button {
   background: none;
-  border: 0px;
+  border: 0;
   outline: none;
   color: var(--color-secondary);
   font-size: 15px;
