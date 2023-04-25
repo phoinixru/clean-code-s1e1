@@ -182,5 +182,5 @@
 /* Completed */
 .task_completed .task__label {
   text-decoration: line-through;
-  color: var(--color-secondary)
+  color: var(--color-secondary);
 }
